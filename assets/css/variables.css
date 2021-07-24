@@ -1,0 +1,9 @@
+:root {
+    --bgSite: #f6f6f6;
+    --bgCard: #ebe9ea;
+
+    --white: #FFF;
+
+    --title: #181818;
+    --description: hsl(0, 0%, 28%);
+}

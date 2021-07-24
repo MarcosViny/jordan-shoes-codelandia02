@@ -1,0 +1,29 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    html {
+        font-size: 58%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    html {
+        font-size: 54%;
+    }
+    
+    .header__discount, 
+    .banner__info, 
+    .cards {
+        padding: 0 5rem;
+    }
+}
+
+@media (min-width: 0) and (max-width: 480px) {
+    html {
+        font-size: 50%;
+    }
+
+    .header__discount, 
+    .banner__info, 
+    .cards {
+        padding: 0 2.5rem;
+    }
+}
